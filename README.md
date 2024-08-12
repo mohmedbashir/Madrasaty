@@ -1,4 +1,3 @@
-
 ![ic_launcher](https://github.com/user-attachments/assets/748be7f1-6eda-4e68-8209-5c92734a45c7)
 # Madrasaty
 
@@ -11,19 +10,10 @@ It’s a mobile application built with Flutter that follows the MVC (Model-View-
 * **Teacher Management**: there is a separate app version for teachers to manage assignments, interact with students, and view important information.
 
 ## Screenshots
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5c6a5283-65a7-403d-83d4-d09d8503bcc1" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e2f02ab6-52a5-4c6b-923d-f044a067d237" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5f84d8e4-9339-4933-9e4e-59b86263ab3c" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/db240ffb-b60a-466b-99af-26ca62b4563e" width="100%" />
-</p>
+<img width="626" alt="Screenshot 2024-08-12 at 7 33 16 PM" src="https://github.com/user-attachments/assets/03bbe85e-f463-4c45-8ca6-f90360d9402d">
+<img width="625" alt="Screenshot 2024-08-12 at 7 33 49 PM" src="https://github.com/user-attachments/assets/31cd515f-203c-4c65-8696-f491c69b8a0e">
+<img width="625" alt="Screenshot 2024-08-12 at 7 34 36 PM" src="https://github.com/user-attachments/assets/6bff43c4-942f-4a08-b281-380ded351592">
+<img width="625" alt="Screenshot 2024-08-12 at 7 33 59 PM" src="https://github.com/user-attachments/assets/017e4659-7246-4188-a54a-a76abe4097ba">
 
 ## Used Dependencies 
 * **HTTP**: For making HTTP requests to fetch data from APIs.
